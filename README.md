@@ -21,6 +21,11 @@ Supported bootmodes:
 
 This project rewrite of original [WoeUSB](https://github.com/slacka/WoeUSB) 
 
+
+
+### queso
+```sudo pip3 install .
+```
 ## Installation
 
 ### Arch
